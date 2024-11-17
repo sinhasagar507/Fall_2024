@@ -1,0 +1,2 @@
+## Flow 
+I just have to extract data using Selenium Webdriver and BS4 and once I have done that, I can clean it up and start indexing in my ElasticSearch datastore
